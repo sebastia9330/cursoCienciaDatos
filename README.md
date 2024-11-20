@@ -1,0 +1,1 @@
+Repositorio que contiene el progreso del curso de una semana "TU PRIMERA SEMANA COMO DATA SCIENTIST"
